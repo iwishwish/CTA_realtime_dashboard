@@ -9,9 +9,10 @@
 4. [File Descriptions](#files)
 
 
-## Installation <a name="installation"></a>
-
-
+## Installation <a name="installation"></a>    
+**Hardware minimum requirement:**        
+- 16gb+ RAM 
+- 4-core CPU
 
 
 ## Project Motivation<a name="motivation"></a>    
